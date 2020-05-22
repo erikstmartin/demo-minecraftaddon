@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "DemoAddon Behaviors",
+    "description": "Who knows?",
+    "uuid": "4a7ac00e-3731-4fad-921c-ab71a823b2ed",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for DemoAddon",
+      "type": "client_data",
+      "uuid": "8f6c16fa-527a-454e-95e6-de33a695c3ac",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "669ec68b-f597-4ee8-83e4-53e311a6c2e6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
